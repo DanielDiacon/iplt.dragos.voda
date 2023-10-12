@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iplt.dragos.voda/static/css/main.bceee4f8.css",
+    "main.js": "/iplt.dragos.voda/static/js/main.88a60f40.js",
+    "static/media/n2i0.jpg": "/iplt.dragos.voda/static/media/n2i0.533619a7da34488c985e.jpg",
+    "static/media/n4i3.jpg": "/iplt.dragos.voda/static/media/n4i3.7c9547bedc35074fa58d.jpg",
+    "static/media/n2i2.jpg": "/iplt.dragos.voda/static/media/n2i2.63de920401d1550596b0.jpg",
+    "static/media/n3i1.jpg": "/iplt.dragos.voda/static/media/n3i1.a8b8fcac9e798362da8e.jpg",
+    "static/media/n1i2.jpg": "/iplt.dragos.voda/static/media/n1i2.07372bdffc186d011fe8.jpg",
+    "static/media/n1i4.jpg": "/iplt.dragos.voda/static/media/n1i4.fe7234691d40d1cf3ea7.jpg",
+    "static/media/n4i0.jpg": "/iplt.dragos.voda/static/media/n4i0.8d0073c16defcbc06919.jpg",
+    "static/media/n1i0.jpg": "/iplt.dragos.voda/static/media/n1i0.ae3c1f38d332a81dbf09.jpg",
+    "static/media/Svetlana-Gubina.jpg": "/iplt.dragos.voda/static/media/Svetlana-Gubina.2eb620f9c6bde24f50e7.jpg",
+    "static/media/Cristina-Bulat.jpg": "/iplt.dragos.voda/static/media/Cristina-Bulat.7770c60a2b4d7158d582.jpg",
+    "static/media/Rodica-Patraşcu.jpg": "/iplt.dragos.voda/static/media/Rodica-Patraşcu.acf69f682c4de2df0822.jpg",
+    "static/media/n4i1.jpg": "/iplt.dragos.voda/static/media/n4i1.de19371c34181e9bfa11.jpg",
+    "index.html": "/iplt.dragos.voda/index.html",
+    "main.bceee4f8.css.map": "/iplt.dragos.voda/static/css/main.bceee4f8.css.map",
+    "main.88a60f40.js.map": "/iplt.dragos.voda/static/js/main.88a60f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bceee4f8.css",
+    "static/js/main.88a60f40.js"
+  ]
+}
